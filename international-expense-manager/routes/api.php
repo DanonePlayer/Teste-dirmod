@@ -10,3 +10,4 @@ Route::get('/user', function (Request $request) {
 
 Route::post('/users', [UserController::class, 'store']);
 Route::post('/expenses', [ExpenseController::class, 'store']);
+Route::get('/expenses', [ExpenseController::class, 'index']);
