@@ -1,8 +1,8 @@
 # International Expense Manager - API
 
-Este projeto é uma API para gerenciamento de despesas internacionais, com conversão automática de moedas e validações de domínio (CPF/CEP).
+Este projeto é uma API para gerenciamento de despesas internacionais, com conversão automática de moedas e validações de domínio (CPF/CEP). "Não deu tempo para interface :( 😔"
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone o repositório
 2. Instale as dependências: `composer install`
@@ -51,5 +51,6 @@ Header = X-User-Id
 Valor = 1
 
 Descrição = ID do usuário que está requisitando (Simulação de Auth)
+
 
 
